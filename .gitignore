@@ -1,0 +1,11 @@
+# Local personal financial data
+data/
+expenses_export.csv
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
